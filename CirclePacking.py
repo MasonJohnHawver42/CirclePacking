@@ -111,8 +111,3 @@ def circlePackingFromImg(img_arr, max_iter=1000, min_size=2, max_size=-1, growth
         cv2.waitKey(1)
     cv2.waitKey(0)
 
-
-im = cv2.imread("Bender.png")
-
-showCirclePacking(600, 800, 1000, 4, -1, 5, 1)
-
