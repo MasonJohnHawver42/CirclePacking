@@ -35,3 +35,6 @@ circle packing from an img
     newCirclePerIter = 1
 
     circlePackingFromImg(img, max_iter, min_radius, max_radius, growthPerIter, newCirclePerIter)
+
+# Example
+https://youtu.be/_IbkmKGPo1Y
